@@ -1,5 +1,5 @@
 # Tennis-Game
-This is a simple tennis game developed using javascript. 
+This is a simple tennis game developed using javascript. <br>
 RULES of the game:
 - The right paddle is the computer and the left paddle is the user.
 - Use your mouse to move your paddle and hit the ball.
